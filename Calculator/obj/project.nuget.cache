@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsSp07RnY3S66GxH0Iu8SfKCOI7TirvzIe4OSy+EWFQK60HR311IHezIsjyAKqp/DTDnxwNMQ/lc71R5Q/+z6g==",
+  "success": true,
+  "projectFilePath": "/home/onel/git/Csharp-MiniProjects/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/onel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
