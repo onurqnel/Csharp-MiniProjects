@@ -10,8 +10,8 @@ A collection of small C# projects to practice c# development and building useful
 
 ## Projects
 
-1. **Basic Calculator**
-   - Uses **OOP** principles: properties, encapsulation, and abstraction
-   - Validates input and handles errors (division by zero)
-   - Follows **Single Responsibility Principle** for clean class design
+1. **Calculator**
+   - Uses **OOP** principles: properties, encapsulation, and abstraction.
+   - **Input Validation** and **Error Handling** such as division by zero. 
+   - Follows **Single Responsibility Principle** for clean class design.
 
