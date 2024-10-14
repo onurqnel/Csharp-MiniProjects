@@ -1,0 +1,15 @@
+/home/onel/git/Csharp-MiniProjects/Tictactoe/bin/Debug/net8.0/Tictactoe
+/home/onel/git/Csharp-MiniProjects/Tictactoe/bin/Debug/net8.0/Tictactoe.deps.json
+/home/onel/git/Csharp-MiniProjects/Tictactoe/bin/Debug/net8.0/Tictactoe.runtimeconfig.json
+/home/onel/git/Csharp-MiniProjects/Tictactoe/bin/Debug/net8.0/Tictactoe.dll
+/home/onel/git/Csharp-MiniProjects/Tictactoe/bin/Debug/net8.0/Tictactoe.pdb
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/Tictactoe.AssemblyInfoInputs.cache
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/Tictactoe.AssemblyInfo.cs
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/Tictactoe.csproj.CoreCompileInputs.cache
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/Tictactoe.sourcelink.json
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/Tictactoe.dll
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/refint/Tictactoe.dll
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/Tictactoe.pdb
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/Tictactoe.genruntimeconfig.cache
+/home/onel/git/Csharp-MiniProjects/Tictactoe/obj/Debug/net8.0/ref/Tictactoe.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0nuygVJjnkASifqfwRNVBfpnDaD2Qcqy73FN2PCRJ1ReQ/j5bwP755ULrX7N9fUo8JEkzDhDur+NGrt/SbUqSg==",
+  "success": true,
+  "projectFilePath": "/home/onel/git/Csharp-MiniProjects/Tictactoe/Tictactoe.csproj",
+  "expectedPackageFiles": [
+    "/home/onel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
