@@ -1,6 +1,6 @@
 # Csharp-MiniProjects
 
-A collection of small C# projects to practice c# development and building useful tools.
+A collection of small C# projects to practice C# development and building useful tools.
 
 ## Technologies Used
 
@@ -12,6 +12,11 @@ A collection of small C# projects to practice c# development and building useful
 
 1. **Calculator**
    - Uses **OOP** principles: properties, encapsulation, and abstraction.
-   - **Input Validation** and **Error Handling** such as division by zero. 
+   - **Input Validation** and **Error Handling** such as division by zero.
    - Follows **Single Responsibility Principle** for clean class design.
 
+2. **TicTacToe**
+   - Implements a **command-line TicTacToe game** with two players.
+   - Demonstrates **OOP** concepts such as constructors, encapsulation, and class interactions.
+   - Includes **game logic** for validating moves, switching players, and determining the game's outcome (win/draw).
+   - Utilizes loops and conditionals to create a **game loop** and **user input validation**.
